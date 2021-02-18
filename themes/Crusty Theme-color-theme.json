@@ -9,6 +9,11 @@
 		"editor.background": "#0F111A",
 		"editorCursor.foreground": "#06e0e7",
 		"editor.foreground": "#A6ACCD",
+		"button.background": "#2a3257",
+		"editorGroup.border": "#0F111A",
+		"scrollbarSlider.background": "#334452",
+		"scrollbarSlider.hoverBackground": "#1a4f7a",
+		"scrollbarSlider.activeBackground": "#1a4f7a",
 		"editorGroup.dropBackground": "#0F111A",
 		"editorGroupHeader.tabsBorder": "#0F111A",
 		"editorGroupHeader.noTabsBackground": "#0F111A",
@@ -21,10 +26,10 @@
 		"input.foreground": "#06e0e7",
 		"input.placeholderForeground": "#1aa0a5",
 		"activityBar.background": "#0F111A",
+		"tab.border": "#0F111A",
 		"tab.activeBorder": "#7cf0dc",
 		"tab.inactiveBackground": "#0F111A",
 		"tab.unfocusedActiveBackground": "#0F111A",
-		"scrollbarSlider.background": "#06e0e7",
 	},
 	"tokenColors": [
 		{
