@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "crusty-treason"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Crusty Dark Theme for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A colour theme extension providing a Dark them for Visual Studio Code.
+You can download this extension from [here](https://marketplace.visualstudio.com/items?itemName=daksh4469.crusty-treason)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
+* Open Extensions tab on the SideBar in VS Code.
+* Search for "crusty_tr345on"
+* Install this extension
+* Press Ctrl + Shift + P
+* Select Preferences: Color Theme in the dropdown
+* Click on "Crusty Theme"
 
 **Enjoy!**
