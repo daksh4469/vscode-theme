@@ -1,7 +1,7 @@
 {
     "name": "crusty-treason",
     "displayName": "crusty_tr345on",
-    "description": "VSCode Theme ",
+    "description": "A splashy vibrant dark theme for Visual Studio Code",
     "publisher": "daksh4469",
     "version": "0.0.2",
     "icon": "images/icon.png",
@@ -19,5 +19,19 @@
                 "path": "./themes/Crusty Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "crusty",
+        "treason",
+        "crusty_tr345on",
+        "dark",
+        "dracula",
+        "material",
+        "theme",
+        "material dark",
+        "flat",
+        "night",
+        "blue theme",
+        "blue"
+    ]
 }
