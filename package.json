@@ -3,7 +3,8 @@
     "displayName": "crusty_tr345on",
     "description": "VSCode Theme ",
     "publisher": "daksh4469",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.53.0"
     },
