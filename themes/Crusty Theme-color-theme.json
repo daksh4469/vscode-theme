@@ -66,7 +66,16 @@
 		"editor.snippetTabstopHighlightBackground": "#ffd000",
 		"editor.snippetFinalTabstopHighlightBorder": "#0F111A",
 		"editor.snippetTabstopHighlightBorder": "#0F111A",
-		
+		"terminal.background": "#0F111A",
+		"terminal.border": "#06e0e7",
+		"terminal.foreground": "#A6ACCD",
+		"terminal.ansiBlack": "#ffd000",
+		"terminal.ansiBrightBlue": "#ff9d9d",
+		"terminal.ansiBlue": "#ff9d9d",
+		"terminal.ansiYellow": "#06e0e7",
+		"terminal.ansiBrightCyan": "#92FC79",
+		"terminal.ansiBrightRed": "#e7255f",
+		"terminal.ansiBrightWhite": "#f1cbcb",
 	},
 	"tokenColors": [
 		{
