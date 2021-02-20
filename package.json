@@ -3,7 +3,7 @@
     "displayName": "crusty_tr345on",
     "description": "A splashy vibrant dark theme for Visual Studio Code",
     "publisher": "daksh4469",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.53.0"
